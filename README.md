@@ -10,15 +10,17 @@
 
 **Nối từ** là trò chơi trí tuệ. Người chơi sẽ lần lượt đưa ra một từ có hai âm tiết bắt đầu bằng chữ cuối cùng trong từ lúc trước đưa ra. Người chơi không được phép sử dụng từ đã từng được dùng trong ván chơi, trò chơi kết thúc khi người chơi không nối được từ tiếp theo.
 
+Vì trình độ có giới hạn nên có thể sẽ có bug trong code nha =))
+
 ## 💌 Credits
 
 Special thanks to:
 - [**Từ điển mở tiếng Việt**](https://github.com/undertheseanlp/dictionary) by [Under The Sea](https://github.com/undertheseanlp)
+- [**NNB**](https://github.com/NNBnh)
 
 <br><br><br><br>
 
 ---
 
-> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
->
+> <h1 align="center">Remake in cpp</h1>
 > <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
